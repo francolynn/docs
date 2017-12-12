@@ -7,10 +7,9 @@ Follow this [Link](https://lokalise.co/project/3947163159df13df851b51.98101647/?
 `appstore.app.keywords` - List of keywords that helps App Store to find Trust app. Use words that you think users will use to find Trust app.
 Limit: 100 characters, separated by comma, remove any space.
 
-### List of official words
-Trust, Ethereum, Oracles, Gas, Coinbase, ShapeShift, Changelly
+### List of words that do not need translation
+Trust, Ethereum, Oracles, Gas, Coinbase, ShapeShift, Changelly, or any official names or trademarks, etc.
 
-leave them as it is.
 
 ### Special characters 
-If you see anything like `[%s]`, `[%2$s]`, `%d` leave them as is it, it’s used to insert some values within the app.
+If you see anything like `[%s]`, `[%2$s]`, `%d`, leave them as they are, it’s used to insert values within the app.
