@@ -8,7 +8,7 @@ Follow this [Link](https://lokalise.co/project/3947163159df13df851b51.98101647/?
 Limit: 100 characters, separated by comma, remove any space.
 
 ### List of words that do not need translation
-Trust, Ethereum, Oracles, Gas, Coinbase, ShapeShift, Changelly, or any official names or trademarks, etc.
+Trust, Ethereum, Oracles, Gas, ERC20, Coinbase, ShapeShift, Changelly, or any official names or trademarks, etc.
 
 
 ### Special characters 
