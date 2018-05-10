@@ -1,4 +1,4 @@
-Open in dApp Browser `https://trustwalletapp.com`
+Open in Trust Wallet dApp Browser `https://trustwalletapp.com`
 
 ```json
 {
