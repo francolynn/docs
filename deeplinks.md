@@ -3,7 +3,8 @@ Open in Trust Wallet dApp Browser `https://trustwalletapp.com`
 ```json
 {
    "event": "openURL",
-   "url": "https://trustwalletapp.com"
+   "url": "https://trustwalletapp.com",
+   "$canonical_url": "https://trustwalletapp.com",
 }
 ```
 
@@ -13,8 +14,10 @@ Add new token custom token to the wallet. Ex: `0x86fa049857e0209aa7d9e616f7eb3b3
 ```json
 {
    "event": "newToken",
-    "contract": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0"
+   "contract": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0"
 }
 ```
+
+### Recomended
 
 Reference for [iOS implementation](https://github.com/TrustWallet/trust-wallet-ios/blob/master/Trust/Core/Types/BranchEvent.swift)
