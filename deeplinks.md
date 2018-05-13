@@ -19,6 +19,7 @@ Add new token custom token to the wallet. Ex: `0x86fa049857e0209aa7d9e616f7eb3b3
 ```
 
 Branch Key: `key_live_lfvIpVeI9TFWxPCqwU8rZnogFqhnzs4D`
+Example: `https://links.trustwalletapp.com/7aoeGc6UzM` - points to peepeth.com DApp
 
 ### Recomended
 
