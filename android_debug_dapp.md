@@ -13,4 +13,4 @@ At the top of the Developer options screen, toggle the options to on.
 Next, you should scroll down a little and enable USB debugging. This allows Android Studio and other SDK tools to recognize your device when connected via USB, so you can use the debugger and other tools.
 
 On a development computer, install [android comand line tools](https://developer.android.com/studio/#downloads).
-Connect the device to the computer. Go to the Chrome browser and open chrome://inspect/#devices and select your device, page and tap by inspect.
+Connect the device to the computer. Go to the Chrome browser and open **chrome://inspect/#devices** and select your device, page and tap by *inspect*.
