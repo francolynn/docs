@@ -14,3 +14,5 @@ Next, you should scroll down a little and enable USB debugging. This allows Andr
 
 On a development computer, install [android comand line tools](https://developer.android.com/studio/#downloads).
 Connect the device to the computer. Go to the Chrome browser and open **chrome://inspect/#devices** and select your device, page and tap by *inspect*.
+
+[![](https://img.youtube.com/vi/Cn9XJx-C6hA/0.jpg)](https://www.youtube.com/watch?v=Cn9XJx-C6hA)
