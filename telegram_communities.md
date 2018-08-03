@@ -1,3 +1,5 @@
+English: [https://t.me/trustwallet](https://t.me/trustwallet)
+
 Russian: [https://t.me/trustwallet_ru](https://t.me/trustwallet_ru)
 
 Vietnamese: [https://t.me/trustwallet_vn](https://t.me/trustwallet_vn)
