@@ -10,6 +10,6 @@ Chinese: [https://t.me/trustwallet_cn](https://t.me/trustwallet_cn)
 
 日本: [https://t.me/trustwallet_jp](https://t.me/trustwallet_jp)
 
-German: [https://t.me/trustwallt_de](https://t.me/trustwallt_de)
+German: [https://t.me/trustwallet_de](https://t.me/trustwallet_de)
 
 French: [https://t.me/trustwallet_fr](https://t.me/trustwallet_fr)
