@@ -14,4 +14,4 @@ German: [https://t.me/trustwallet_de](https://t.me/trustwallet_de)
 
 French: [https://t.me/trustwallet_fr](https://t.me/trustwallet_fr)
 
-Brazil/Portugese: [https://t.me/trustwallet_fr](https://t.me/trustwallet_br)
+Brazil/Portugese: [https://t.me/trustwallet_br](https://t.me/trustwallet_br)
